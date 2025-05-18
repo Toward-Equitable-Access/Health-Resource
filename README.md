@@ -7,7 +7,7 @@ Access to health resources is a critical determinant of public well-being and so
 ### `1.data-processing.ipynb`
 *   **Purpose**: Collects and cleans Google Maps review data for stores across 49 U.S. states.
 
-### `2.text-classification .ipynb`
+### `2.text-classification.ipynb`
 *   **Purpose**: Trains and evaluates various text classification models to categorize the sentiment of the filtered health resource-related reviews.
 
 ### `3.county-result.ipynb`
